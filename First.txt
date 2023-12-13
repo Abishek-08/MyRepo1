@@ -1,3 +1,6 @@
 My First Line
 My Branch1
+
 branch--1 for conflict
+My Branch2
+123456
